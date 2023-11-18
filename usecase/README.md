@@ -8,7 +8,7 @@ They search by words.
 
 The words are not clear.
 
-We give users relevant tags based on keywords.
+We give users relevant tags based on words.
 
 The `search` api in [Flask-UI](https://github.com/KDI-2023/flask-ui) is an implementation of this feature.
 
